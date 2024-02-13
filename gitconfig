@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = idategto11@gmail.com
+	name = Christophe Dubois
